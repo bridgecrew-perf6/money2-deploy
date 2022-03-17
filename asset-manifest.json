@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/money2-deploy/static/css/main.63649533.css",
+    "main.js": "/money2-deploy/static/js/main.ba622a3d.js",
+    "static/js/541.31daa3df.chunk.js": "/money2-deploy/static/js/541.31daa3df.chunk.js",
+    "static/js/778.1b9c5525.chunk.js": "/money2-deploy/static/js/778.1b9c5525.chunk.js",
+    "index.html": "/money2-deploy/index.html",
+    "main.63649533.css.map": "/money2-deploy/static/css/main.63649533.css.map",
+    "main.ba622a3d.js.map": "/money2-deploy/static/js/main.ba622a3d.js.map",
+    "541.31daa3df.chunk.js.map": "/money2-deploy/static/js/541.31daa3df.chunk.js.map",
+    "778.1b9c5525.chunk.js.map": "/money2-deploy/static/js/778.1b9c5525.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63649533.css",
+    "static/js/main.ba622a3d.js"
+  ]
+}
